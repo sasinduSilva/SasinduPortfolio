@@ -442,7 +442,7 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #f1ecec;
+  color: #f5ebeb;
 }
 
 #hero h2 {
@@ -487,10 +487,12 @@ h6 {
     right: 0;
   }
   #hero h1 {
+    color: #222222;
     font-size: 28px;
     line-height: 36px;
   }
   #hero h2 {
+    color: #222222;
     font-size: 18px;
     line-height: 24px;
   }
