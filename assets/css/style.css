@@ -474,6 +474,7 @@ h6 {
   #hero {
     background-attachment: fixed;
   }
+  
 }
 
 @media (max-width: 992px) {
@@ -487,7 +488,7 @@ h6 {
     right: 0;
   }
   #hero h1 {
-    color: #222222;
+    color: #d41313;
     font-size: 28px;
     line-height: 36px;
   }
